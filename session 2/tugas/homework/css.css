@@ -1,0 +1,27 @@
+.container {
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.form {
+    margin: auto;
+    width: 200px;
+    line-height: 25px;
+}
+
+.Judul {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.main {
+    text-align: center;
+}
+
+.btn-show {
+    margin: 0;
+}
